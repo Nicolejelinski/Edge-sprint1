@@ -40,11 +40,7 @@ Intervalo de Medição: A precisão da velocidade depende da frequência das med
 
 ## Autores
 Projeto desenvolvido para a matéria de Edge Computing do Professor Fabio Cabrini, por: 
-Felipe Genistretti Rodrigues;
 Nicolle Pellegrino Jelinski;
-Nicolas Aquino Borges;
-Renan Simões Gonçalves;
-Vitor Rivas Cardoso.
 
 # Code
 ```#include <NewPing.h>        // Biblioteca para lidar com o sensor ultrassônico
